@@ -11,3 +11,6 @@ def personal_top_three(scores):
 
 def personal_top_ten(scores):
     pass
+
+def personal_top_twenty(scores):
+    pass
